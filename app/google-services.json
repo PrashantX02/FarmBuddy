@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067378963543",
+    "project_id": "perfectwheather-6c63b",
+    "storage_bucket": "perfectwheather-6c63b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067378963543:android:78ea79d3b5ef3718625f12",
+        "android_client_info": {
+          "package_name": "com.example.perfectwheather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067378963543-biiqk4m8jv4h5d1rohnr2nc8t3787o9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEwNaQw4SdoU_REw6ZsM41VNeBYxeVNJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067378963543-biiqk4m8jv4h5d1rohnr2nc8t3787o9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
